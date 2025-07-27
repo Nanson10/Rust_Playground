@@ -2,3 +2,4 @@
 members = [ "guessing_game",
     "hello_world", "random_six_dice", "string_lab"
 ]
+resolver = "3"
