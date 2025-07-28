@@ -47,4 +47,7 @@ fn main() {
             }
         }
     }
+    print!("Press Enter to exit: ");
+    io::stdout().flush().unwrap();
+    io::stdin().read_line(&mut String::new()).unwrap();
 }
