@@ -1,3 +1,3 @@
 [workspace]
-members = ["fahrenheit_and_celsius_conversion", "fibonacci_1", "guessing_game", "hello_world", "launch_off", "random_six_dice", "string_lab"]
+members = ["fahrenheit_and_celsius_conversion", "fibonacci_1", "guessing_game", "hello_world", "launch_off", "ownership_lab", "random_six_dice", "string_lab"]
 resolver = "3"
