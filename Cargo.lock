@@ -46,6 +46,10 @@ name = "hello_world"
 version = "0.1.0"
 
 [[package]]
+name = "hello_world_format"
+version = "0.1.0"
+
+[[package]]
 name = "launch_off"
 version = "0.1.0"
 
